@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+    <line>
+      <![CDATA[Testing]]>
+    </line>
+    <line>
+      <![CDATA[hello]]>
+    </line>
+    <line>
+      <![CDATA[manual testing]]>
+    </line>
+    <line>
+      <![CDATA[automation confidance]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="81" started-at="2022-07-17T17:13:12 IST" finished-at="2022-07-17T17:13:12 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="81" started-at="2022-07-17T17:13:12 IST" finished-at="2022-07-17T17:13:12 IST">
+      <class name="login.testcase4">
+        <test-method status="PASS" signature="tc4()[pri:0, instance:login.testcase4@38bc8ab5]" name="tc4" duration-ms="1" started-at="2022-07-17T17:13:12 IST" finished-at="2022-07-17T17:13:12 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[manual testing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+      </class> <!-- login.testcase4 -->
+      <class name="login.testcase3">
+        <test-method status="PASS" signature="tc3()[pri:0, instance:login.testcase3@687080dc]" name="tc3" duration-ms="1" started-at="2022-07-17T17:13:12 IST" finished-at="2022-07-17T17:13:12 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[automation confidance]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+      </class> <!-- login.testcase3 -->
+      <class name="login.testcase2">
+        <test-method status="PASS" signature="tc2()[pri:0, instance:login.testcase2@fad74ee]" name="tc2" duration-ms="9" started-at="2022-07-17T17:13:12 IST" finished-at="2022-07-17T17:13:12 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Testing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+      </class> <!-- login.testcase2 -->
+      <class name="login.testcase1">
+        <test-method status="PASS" signature="tc1()[pri:0, instance:login.testcase1@6b9651f3]" name="tc1" duration-ms="2" started-at="2022-07-17T17:13:12 IST" finished-at="2022-07-17T17:13:12 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[hello]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+      </class> <!-- login.testcase1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
