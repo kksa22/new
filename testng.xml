@@ -7,6 +7,8 @@
       <class name="login.testcase1"/>
       <class name="login.testcase4"/>
       <class name="login.testcase3"/>
+      <class name="login.testcase6"/>
+      <class name="login.testcase5"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
